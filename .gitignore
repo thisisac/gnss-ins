@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+__pycache__/
+*.pyc
+**/x64/
+**/Debug/
+**/Release/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.exe
+
+# Local data and generated outputs
+data/*
+!data/README.md
+reference/*
+!reference/README.md
+output/
+*.nav
+*.pos
+*.imr
+*.dat
+*.26o
+*.rnx
+*.26p
+*.txt
+
+# Personal documents and private reports
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
