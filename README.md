@@ -83,7 +83,7 @@ The implementation is split into the following components:
 | `src/GNSSINS/src/main.cpp` | Application configuration, mode dispatch, input/output orchestration, and pseudo-online sensor scheduling. |
 | `src/GNSSINS/src/imu_alignment_analysis.cpp` | Auxiliary IMU alignment analysis executable source; it is not part of the default Visual Studio target. |
 | `tools/` | Python/MATLAB post-processing and visualization scripts. |
-| `results/figures/` | Sanitized example figures and small result tables from the supplied package. |
+| `results/figures/` | Sanitized example figures from the supplied package. |
 
 ## 3. 数据流与关键状态 / Data Flow and States
 
